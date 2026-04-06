@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero">
+    <div class="hero-content">
+        <h1>Welcome to FoodExpress!</h1>
+        <p>Fresh meals delivered fast to your door.</p>
+        <a href="{{ url_for('menu_page') }}" class="btn">View Menu</a>
+        <a href="{{ url_for('cart_page') }}" class="btn btn-secondary">Go to Cart</a>
+    </div>
+    <div class="hero-image">
+        <img src="{{ url_for('static', filename='images/restaurant_hero.jpg') }}" alt="Delicious food">
+    </div>
+</section>
+
+<section class="about">
+    <h2>About Us</h2>
+    <p>At FoodExpress, we bring you freshly prepared meals from the finest ingredients.</p>
+</section>
+
+<section class="featured">
+    <h2>Featured Dishes</h2>
+    <div class="featured-grid">
+        <div class="featured-card">
+            <img src="{{ url_for('static', filename='images/masala_dosa.jpg') }}" alt="Masala Dosa">
+            <h3>Masala Dosa</h3>
+        </div>
+        <div class="featured-card">
+            <img src="{{ url_for('static', filename='images/paneer_butter_masala.jpg') }}" alt="Paneer Butter Masala">
+            <h3>Paneer Butter Masala</h3>
+        </div>
+        <div class="featured-card">
+            <img src="{{ url_for('static', filename='images/gulab_jamun.jpg') }}" alt="Gulab Jamun">
+            <h3>Gulab Jamun</h3>
+        </div>
+    </div>
+</section>
+{% endblock %}

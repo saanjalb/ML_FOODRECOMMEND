@@ -1,0 +1,6 @@
+
+Breakfast: Masala Dosa,Idli,Vada,Upma,Poha,Aloo Paratha,Poori Bhaji,Veg Sandwich,Bread Omelette,Pancakes,Waffles,French Toast,Cornflakes with Milk,Tea,Coffee
+
+Main Course: Jeera Rice,Dal Tadka,Paneer Butter Masala,Paneer Tikka Masala,Chole Masala,Chole Bhature,Veg Biryani,Chicken Biryani,Mutton Curry,Fish Curry,Roti,Butter Naan,Laccha Paratha,Pav Bhaji,Hakka Noodles,Veg Manchuria,Fried Rice,Sweet Corn Soup,Salad,Papad
+
+Desserts/Sweets :Gulab Jamun,Rasgulla,Jalebi,Kheer,Gajar Halwa,Ice Cream (Vanilla),Ice Cream (Chocolate),Brownie,Cake (Chocolate),Lassi

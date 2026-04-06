@@ -1,0 +1,301 @@
+TransactionID,Items
+1,Chicken Biryani;Cake (Chocolate)
+2,Veg Biryani;Rasgulla
+3,Waffles;Paneer Butter Masala;Salad;Fish Curry
+4,Ice Cream (Vanilla);Pav Bhaji;Papad;Mutton Curry;Chicken Biryani
+5,Jeera Rice;Masala Dosa;Veg Manchurian
+6,Rasgulla;Laccha Paratha
+7,Dal Tadka;Sweet Corn Soup;Masala Dosa;Jeera Rice;Poha
+8,Cornflakes with Milk;Jalebi;Fish Curry;Gajar Halwa
+9,Pav Bhaji;Laccha Paratha;Sweet Corn Soup;Waffles;Chicken Biryani
+10,Idli;Fried Rice;Hakka Noodles
+11,Veg Sandwich;Chicken Biryani
+12,Fish Curry;Jeera Rice;Brownie;Aloo Paratha
+13,Salad;Laccha Paratha
+14,Jalebi;Hakka Noodles
+15,Kheer;Veg Manchurian;Laccha Paratha;French Toast;Paneer Butter Masala
+16,Cake (Chocolate);Rasgulla
+17,Poori Bhaji;Laccha Paratha;Brownie;Gajar Halwa
+18,Gulab Jamun;Veg Biryani;Lassi
+19,Gajar Halwa;Ice Cream (Vanilla);Roti
+20,Laccha Paratha;Kheer;Salad;Veg Biryani
+21,Veg Sandwich;Coffee;Fried Rice;Gajar Halwa
+22,Ice Cream (Chocolate);Brownie;Veg Sandwich;French Toast;Coffee
+23,Tea;Coffee
+24,Brownie;Kheer;Butter Naan;Ice Cream (Vanilla);Gulab Jamun
+25,Poori Bhaji;Chole Masala;Fish Curry
+26,Gajar Halwa;Bread Omelette;Waffles
+27,Poha;Coffee;Veg Biryani;Dal Tadka
+28,Pancakes;Bread Omelette;Aloo Paratha;French Toast;Lassi
+29,Ice Cream (Chocolate);Gajar Halwa;Brownie;Pav Bhaji
+30,Veg Manchurian;Chicken Biryani
+31,Masala Dosa;Papad;Ice Cream (Vanilla)
+32,Cornflakes with Milk;Paneer Butter Masala;Pav Bhaji
+33,Cake (Chocolate);Salad;Gajar Halwa
+34,Chole Bhature;Fish Curry;Idli;Veg Biryani
+35,Gulab Jamun;Jeera Rice;Veg Manchurian;Waffles
+36,Jalebi;Tea;Paneer Butter Masala
+37,Ice Cream (Vanilla);Jeera Rice;Veg Sandwich;Butter Naan;Masala Dosa
+38,Waffles;Laccha Paratha;Vada
+39,Pancakes;Ice Cream (Chocolate);Tea
+40,Ice Cream (Chocolate);Kheer;Upma
+41,Paneer Tikka Masala;Gajar Halwa;Bread Omelette;Papad;Laccha Paratha
+42,Salad;Waffles;French Toast;Sweet Corn Soup
+43,Vada;Veg Manchurian
+44,Hakka Noodles;Dal Tadka;Salad
+45,Roti;Cake (Chocolate);Upma;Jeera Rice
+46,Vada;Brownie;Paneer Butter Masala;Ice Cream (Chocolate);Butter Naan
+47,Gulab Jamun;Cornflakes with Milk;Hakka Noodles;Fish Curry;Aloo Paratha
+48,Butter Naan;Roti;Idli;Mutton Curry
+49,Ice Cream (Vanilla);Chole Bhature;Idli;Butter Naan
+50,Butter Naan;Cake (Chocolate);Lassi;Gajar Halwa;Upma
+51,Ice Cream (Chocolate);Jalebi;Waffles;Brownie
+52,Poori Bhaji;Lassi;Gulab Jamun;Pav Bhaji
+53,Jeera Rice;Rasgulla;Kheer;Ice Cream (Vanilla);Gajar Halwa
+54,Ice Cream (Chocolate);Cornflakes with Milk;Masala Dosa;Laccha Paratha;Poha
+55,Chole Bhature;Vada;Gajar Halwa
+56,Kheer;Salad;Veg Sandwich;Chole Bhature;Idli
+57,Paneer Tikka Masala;Dal Tadka;Laccha Paratha;Veg Manchurian;Gulab Jamun
+58,Veg Sandwich;Tea
+59,Laccha Paratha;Fried Rice;Paneer Butter Masala;Mutton Curry;Papad
+60,Papad;Pav Bhaji;Lassi;Fish Curry
+61,Veg Sandwich;Pav Bhaji
+62,Fish Curry;Poori Bhaji
+63,Papad;Vada;Veg Manchurian
+64,Chole Masala;Gajar Halwa
+65,Sweet Corn Soup;Mutton Curry;Ice Cream (Vanilla)
+66,Papad;Veg Manchurian;Pancakes;Salad;Hakka Noodles
+67,Tea;Bread Omelette
+68,Fish Curry;Hakka Noodles
+69,Gajar Halwa;Brownie;Paneer Tikka Masala
+70,Kheer;Aloo Paratha;Bread Omelette;Rasgulla;Papad
+71,Rasgulla;French Toast;Veg Manchurian;Coffee
+72,Laccha Paratha;Waffles
+73,Jeera Rice;Poori Bhaji;Pav Bhaji;Idli;Paneer Butter Masala
+74,Fried Rice;Jeera Rice;Chole Bhature
+75,Mutton Curry;Gulab Jamun;Jalebi;Jeera Rice
+76,Fish Curry;Brownie;Gulab Jamun;Rasgulla;Roti
+77,Bread Omelette;Lassi;Gajar Halwa;Gulab Jamun
+78,Poha;Fried Rice;Dal Tadka;Lassi;Gulab Jamun
+79,Pancakes;Brownie;Butter Naan
+80,Jalebi;Aloo Paratha;Salad;Tea
+81,Coffee;Poha;Brownie;Ice Cream (Vanilla)
+82,Idli;Jeera Rice;Lassi;Waffles
+83,Fried Rice;Chole Masala;Sweet Corn Soup;Jeera Rice
+84,Poha;Laccha Paratha;Fried Rice;French Toast;Tea
+85,Chicken Biryani;Bread Omelette;Pav Bhaji
+86,Fried Rice;Veg Biryani;Chole Bhature
+87,Papad;Coffee
+88,Jeera Rice;Pav Bhaji
+89,Chicken Biryani;Masala Dosa;Gajar Halwa
+90,Pancakes;Cornflakes with Milk;Gajar Halwa
+91,Veg Biryani;Dal Tadka;Laccha Paratha;Chicken Biryani
+92,Brownie;Veg Sandwich;Laccha Paratha;Idli;Coffee
+93,Aloo Paratha;Gajar Halwa;Rasgulla;Paneer Tikka Masala;Gulab Jamun
+94,Jeera Rice;Fish Curry;Waffles
+95,Butter Naan;Papad;Waffles;Bread Omelette;Pav Bhaji
+96,Ice Cream (Chocolate);Gajar Halwa;Paneer Tikka Masala
+97,Gajar Halwa;Cake (Chocolate);Poha
+98,Gajar Halwa;Butter Naan
+99,Bread Omelette;Ice Cream (Vanilla)
+100,Dal Tadka;Chole Masala
+101,Laccha Paratha;Lassi;Chole Bhature;Ice Cream (Chocolate);Salad
+102,Fish Curry;Chole Bhature;Bread Omelette;Papad;Ice Cream (Chocolate)
+103,Jalebi;French Toast
+104,Lassi;Chole Bhature;Tea;Papad;Pav Bhaji
+105,Mutton Curry;Sweet Corn Soup;Veg Sandwich;Fried Rice
+106,Roti;Paneer Tikka Masala;Pav Bhaji
+107,Jeera Rice;Tea;Butter Naan;Gulab Jamun
+108,Ice Cream (Vanilla);Waffles
+109,Poori Bhaji;Poha;Roti;Veg Manchurian
+110,Waffles;Gajar Halwa;Aloo Paratha;Veg Manchurian
+111,Lassi;Upma;Cornflakes with Milk;Fried Rice;Jalebi
+112,Chole Masala;Ice Cream (Vanilla);French Toast
+113,Vada;Kheer;Ice Cream (Chocolate);Cornflakes with Milk
+114,Poori Bhaji;Gajar Halwa;French Toast;Laccha Paratha
+115,Roti;Veg Manchurian;Dal Tadka
+116,Gajar Halwa;Waffles;Ice Cream (Chocolate);Hakka Noodles;Veg Sandwich
+117,Cake (Chocolate);Chicken Biryani
+118,Chicken Biryani;Chole Masala;Hakka Noodles;Pav Bhaji
+119,Veg Sandwich;Paneer Tikka Masala;Cornflakes with Milk
+120,Veg Manchurian;Ice Cream (Vanilla);Gulab Jamun;Fried Rice
+121,Lassi;Waffles;Roti;Jalebi;Poha
+122,Bread Omelette;Fish Curry
+123,Salad;Jeera Rice
+124,Chicken Biryani;French Toast;Upma;Gajar Halwa
+125,Chole Bhature;Kheer;Aloo Paratha;Masala Dosa
+126,Roti;Paneer Tikka Masala
+127,Poori Bhaji;Paneer Tikka Masala;Fried Rice;Ice Cream (Vanilla)
+128,Upma;Aloo Paratha;Jalebi;Papad
+129,Chole Bhature;Idli;Aloo Paratha;Masala Dosa;Rasgulla
+130,Chole Bhature;Upma
+131,Pancakes;Vada;Cake (Chocolate);Lassi
+132,Tea;Mutton Curry;Brownie;Aloo Paratha;Paneer Tikka Masala
+133,Kheer;Poha;Paneer Butter Masala;Cornflakes with Milk;Fried Rice
+134,Chole Masala;Hakka Noodles
+135,Tea;Chicken Biryani;Bread Omelette
+136,Gajar Halwa;French Toast;Sweet Corn Soup
+137,Lassi;Brownie;Dal Tadka;Veg Manchurian
+138,Veg Manchurian;Jeera Rice;Pav Bhaji
+139,Gulab Jamun;Vada
+140,Lassi;Upma;French Toast;Butter Naan
+141,Hakka Noodles;Mutton Curry;Tea
+142,Salad;Mutton Curry;Gajar Halwa;Laccha Paratha;Veg Sandwich
+143,Ice Cream (Chocolate);Poori Bhaji;Butter Naan
+144,Jeera Rice;Pancakes;Sweet Corn Soup;Aloo Paratha;Roti
+145,Salad;Chole Masala;Paneer Tikka Masala
+146,Fish Curry;Chole Masala;Gulab Jamun;Hakka Noodles;Veg Biryani
+147,Pancakes;Fish Curry;Rasgulla;Papad
+148,Masala Dosa;Paneer Butter Masala;Salad;Gulab Jamun;Gajar Halwa
+149,Cornflakes with Milk;Idli;Jeera Rice;Ice Cream (Chocolate);Ice Cream (Vanilla)
+150,Sweet Corn Soup;Vada;Jeera Rice;Masala Dosa;Ice Cream (Vanilla)
+151,Sweet Corn Soup;Poha
+152,Sweet Corn Soup;Ice Cream (Vanilla);Aloo Paratha;Poha
+153,Tea;Fried Rice;Poori Bhaji;Ice Cream (Chocolate);Poha
+154,Paneer Butter Masala;Chole Bhature;Veg Biryani;Pav Bhaji
+155,Cornflakes with Milk;Lassi;Sweet Corn Soup;Chole Bhature
+156,Cake (Chocolate);Butter Naan;Aloo Paratha
+157,Jeera Rice;Mutton Curry;Veg Biryani;Kheer;Lassi
+158,Gulab Jamun;Poha;Tea
+159,Masala Dosa;Gajar Halwa;Cake (Chocolate);Bread Omelette;French Toast
+160,Hakka Noodles;Pancakes;Jeera Rice
+161,Salad;Coffee;Cake (Chocolate);Chole Masala
+162,Poha;Papad;Veg Sandwich
+163,Poha;Upma;Cake (Chocolate);Jeera Rice
+164,Chole Bhature;Lassi;Roti;Bread Omelette
+165,Veg Biryani;Waffles;Veg Manchurian;Chole Masala;Pav Bhaji
+166,Waffles;Coffee
+167,Ice Cream (Chocolate);Hakka Noodles
+168,Rasgulla;Aloo Paratha
+169,Vada;Cake (Chocolate);Mutton Curry
+170,French Toast;Ice Cream (Vanilla)
+171,Pav Bhaji;Bread Omelette
+172,Poha;Cake (Chocolate)
+173,Cake (Chocolate);Fried Rice;Upma;Fish Curry
+174,Gajar Halwa;Ice Cream (Vanilla);Dal Tadka;Chole Bhature;Pav Bhaji
+175,Ice Cream (Vanilla);Kheer;Laccha Paratha
+176,Salad;Ice Cream (Vanilla);Bread Omelette;Laccha Paratha
+177,Cornflakes with Milk;Fried Rice
+178,Poori Bhaji;Dal Tadka;Masala Dosa;Pancakes;Jalebi
+179,Brownie;Aloo Paratha;Dal Tadka
+180,Veg Sandwich;Pancakes;Idli
+181,Sweet Corn Soup;French Toast;Cake (Chocolate)
+182,Butter Naan;Masala Dosa
+183,Vada;Lassi;Paneer Tikka Masala;Idli;Fried Rice
+184,Rasgulla;Cake (Chocolate);Vada;Roti;Veg Manchurian
+185,Ice Cream (Vanilla);Paneer Tikka Masala;Lassi
+186,Butter Naan;Rasgulla;Dal Tadka;Vada;Poori Bhaji
+187,Rasgulla;Ice Cream (Vanilla);Veg Manchurian
+188,Rasgulla;Papad;Veg Biryani;Paneer Tikka Masala;Masala Dosa
+189,Hakka Noodles;Poori Bhaji
+190,Kheer;Coffee;Cornflakes with Milk
+191,Bread Omelette;Brownie;Sweet Corn Soup;Kheer
+192,Jalebi;Chicken Biryani
+193,Ice Cream (Vanilla);Chicken Biryani;Sweet Corn Soup;Fish Curry
+194,Poori Bhaji;Coffee;Poha;Masala Dosa
+195,Pancakes;Upma;Veg Manchurian
+196,French Toast;Paneer Tikka Masala
+197,Poori Bhaji;Rasgulla
+198,Jalebi;Chicken Biryani;Lassi
+199,Pav Bhaji;Hakka Noodles
+200,Paneer Butter Masala;Pancakes;Mutton Curry
+201,Hakka Noodles;Chole Masala;Cake (Chocolate)
+202,Cake (Chocolate);Hakka Noodles;Butter Naan;Papad
+203,Bread Omelette;Pav Bhaji
+204,Rasgulla;Butter Naan;Veg Biryani;Fish Curry
+205,Vada;Veg Manchurian
+206,Upma;Pav Bhaji
+207,Laccha Paratha;Roti;Veg Biryani
+208,Lassi;Hakka Noodles
+209,Veg Sandwich;Idli
+210,Gulab Jamun;Pav Bhaji
+211,Papad;Rasgulla;Fish Curry
+212,Cornflakes with Milk;Roti
+213,Ice Cream (Chocolate);Paneer Tikka Masala;Brownie;Kheer
+214,Waffles;Sweet Corn Soup;Hakka Noodles
+215,Kheer;Veg Sandwich;Gulab Jamun;Waffles;Chicken Biryani
+216,Kheer;Laccha Paratha;Lassi
+217,Laccha Paratha;Fried Rice
+218,Ice Cream (Chocolate);Roti;Lassi;Cornflakes with Milk
+219,Dal Tadka;Waffles;Chole Masala;Mutton Curry;Butter Naan
+220,Brownie;Chole Bhature;Bread Omelette;Waffles;Idli
+221,Gulab Jamun;Idli;Cornflakes with Milk;Bread Omelette
+222,Bread Omelette;Butter Naan
+223,Laccha Paratha;Veg Sandwich;Mutton Curry;Gulab Jamun
+224,Cake (Chocolate);Coffee;Masala Dosa
+225,Cake (Chocolate);Jeera Rice;Waffles
+226,Masala Dosa;Paneer Tikka Masala
+227,Chole Bhature;Tea;Ice Cream (Vanilla);Vada
+228,Butter Naan;Lassi;Poori Bhaji;Cornflakes with Milk
+229,Papad;Gajar Halwa;Kheer;Sweet Corn Soup;Upma
+230,Bread Omelette;Fish Curry
+231,Poori Bhaji;Tea;Roti;Papad
+232,Paneer Butter Masala;Pancakes
+233,Hakka Noodles;Mutton Curry;Pancakes;Lassi
+234,Dal Tadka;Veg Sandwich;Vada;Veg Manchurian
+235,Idli;Mutton Curry;Dal Tadka
+236,Pancakes;Gulab Jamun;Coffee;Veg Manchurian;Aloo Paratha
+237,Paneer Butter Masala;Ice Cream (Chocolate);French Toast;Dal Tadka;Bread Omelette
+238,Laccha Paratha;Pav Bhaji;Jalebi;Brownie
+239,Ice Cream (Chocolate);Waffles
+240,Ice Cream (Chocolate);Gajar Halwa;Butter Naan;Papad;Mutton Curry
+241,Pav Bhaji;Chicken Biryani;Sweet Corn Soup
+242,Pancakes;Papad;Fried Rice
+243,Jeera Rice;Gulab Jamun
+244,Gulab Jamun;Laccha Paratha;French Toast;Jeera Rice
+245,Ice Cream (Chocolate);Fried Rice;Hakka Noodles
+246,Jalebi;Chole Masala
+247,Veg Manchurian;Coffee;Fish Curry;Chicken Biryani
+248,Masala Dosa;Tea;Chole Bhature;Idli
+249,Bread Omelette;Coffee;Dal Tadka;Paneer Tikka Masala;French Toast
+250,Ice Cream (Vanilla);Sweet Corn Soup;Poori Bhaji;Masala Dosa;Fried Rice
+251,Masala Dosa;Veg Manchurian
+252,Chole Masala;Brownie
+253,Rasgulla;Veg Biryani;Gajar Halwa;Butter Naan;Salad
+254,Fish Curry;Chole Bhature;Upma;Rasgulla
+255,Waffles;Mutton Curry;Veg Sandwich
+256,Poori Bhaji;Masala Dosa
+257,Paneer Butter Masala;Idli
+258,Veg Sandwich;Chole Masala;Masala Dosa
+259,Coffee;Pav Bhaji;Bread Omelette;Sweet Corn Soup;Veg Biryani
+260,French Toast;Ice Cream (Chocolate);Lassi
+261,Poha;Salad;Poori Bhaji;Papad;Brownie
+262,Brownie;Pancakes;Pav Bhaji;Tea;Kheer
+263,Veg Biryani;Laccha Paratha;Hakka Noodles;Sweet Corn Soup
+264,Chole Masala;Sweet Corn Soup
+265,Veg Manchurian;Papad;Coffee
+266,Cornflakes with Milk;Hakka Noodles;Salad;Bread Omelette;Butter Naan
+267,Bread Omelette;Coffee;Chicken Biryani;Upma;Rasgulla
+268,Sweet Corn Soup;Butter Naan
+269,Upma;Brownie;Butter Naan;Sweet Corn Soup;Kheer
+270,Sweet Corn Soup;Brownie;Tea
+271,Salad;Butter Naan;Dal Tadka;Jeera Rice
+272,Gajar Halwa;Fried Rice;Idli;Gulab Jamun
+273,Rasgulla;Coffee;Cornflakes with Milk
+274,Hakka Noodles;Laccha Paratha;Cornflakes with Milk;Waffles;Paneer Tikka Masala
+275,Masala Dosa;Chicken Biryani;Idli;Jeera Rice;Vada
+276,Sweet Corn Soup;Lassi;Chole Masala
+277,Bread Omelette;Roti;Pancakes;Veg Biryani
+278,Chicken Biryani;Ice Cream (Chocolate);Pav Bhaji
+279,Salad;Bread Omelette
+280,Idli;Papad;Ice Cream (Vanilla)
+281,Rasgulla;Paneer Tikka Masala;Pancakes;Waffles
+282,Veg Sandwich;Sweet Corn Soup;Idli;Masala Dosa
+283,Waffles;Chicken Biryani;Veg Sandwich
+284,Idli;Veg Sandwich
+285,French Toast;Gulab Jamun;Brownie;Paneer Butter Masala;Veg Manchurian
+286,Masala Dosa;Papad
+287,Roti;Hakka Noodles;Salad
+288,Mutton Curry;Ice Cream (Vanilla);Pancakes;Poori Bhaji;Gajar Halwa
+289,Papad;Butter Naan;Laccha Paratha
+290,Pav Bhaji;Coffee
+291,Dal Tadka;Veg Sandwich;Jeera Rice
+292,Fish Curry;Bread Omelette;Chole Bhature
+293,Upma;Idli;French Toast;Laccha Paratha
+294,French Toast;Laccha Paratha
+295,Kheer;Butter Naan;Ice Cream (Chocolate)
+296,Gulab Jamun;Aloo Paratha
+297,Papad;Bread Omelette;Chole Bhature
+298,Pancakes;Mutton Curry;Vada;Waffles
+299,Poori Bhaji;Brownie;Rasgulla;Butter Naan;Chole Bhature
+300,Ice Cream (Chocolate);Ice Cream (Vanilla);Chole Bhature

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FoodExpress</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <!-- Header / Navigation -->
+    <header>
+        <div class="container header-container">
+            <div class="logo">
+                <a href="{{ url_for('home') }}">FoodExpress</a>
+            </div>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="{{ url_for('home') }}">Home</a></li>
+                    <li><a href="{{ url_for('menu_page') }}">Menu</a></li>
+                    <li><a href="{{ url_for('cart_page') }}">Cart ({{ cart|length }})</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 FoodExpress. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

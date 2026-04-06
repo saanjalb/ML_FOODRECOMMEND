@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Menu</h2>
+
+<div class="categories">
+    {% for category, items in menu.items() %}
+    <div class="category-card" onclick="toggleCategory('{{ category }}')">
+        <h3>{{ category }}</h3>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="menu-items">
+    {% for category, items in menu.items() %}
+    <div class="category-items" id="{{ category }}" style="display:none;">
+        <h3>{{ category }}</h3>
+        <div class="items-grid">
+            {% for item in items %}
+            <div class="item-card" id="item-{{ item|replace(' ', '_') }}">
+                <img src="{{ url_for('static', filename='images/' + item + '.jpg') }}" alt="{{ item }}"
+                     onerror="this.src='{{ url_for('static', filename='images/placeholder.jpg') }}'">
+                <h4>{{ item }}</h4>
+                <button onclick="addToCart('{{ item }}')">Add to Cart</button>
+                <div class="recommendations" id="rec-{{ item|replace(' ', '_') }}"></div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<script>
+async function addToCart(item) {
+    const response = await fetch("{{ url_for('api_add_to_cart') }}", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ item: item })
+    });
+    const data = await response.json();
+
+    // Show recommendations just below the item
+    const recDiv = document.getElementById('rec-' + item.replace(/ /g, '_'));
+    if (recDiv) {
+        recDiv.innerHTML = data.recommendations.length > 0 ?
+            `<h4>Recommended for you</h4>` +
+            data.recommendations.map(rec => `
+                <div class="item-card rec-card">
+                    <img src="{{ url_for('static', filename='images/') }}${rec}.jpg" alt="${rec}" 
+                         onerror="this.src='{{ url_for('static', filename='images/placeholder.jpg') }}'">
+                    <h5>${rec}</h5>
+                    <button onclick="addToCart('${rec}')">Add to Cart</button>
+                </div>
+            `).join('') : '';
+    }
+}
+
+// Toggle category visibility
+function toggleCategory(cat) {
+    const sections = document.querySelectorAll('.category-items');
+    sections.forEach(s => s.style.display = 'none');
+    document.getElementById(cat).style.display = 'block';
+}
+</script>
+
+{% endblock %}
